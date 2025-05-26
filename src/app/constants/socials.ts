@@ -17,7 +17,7 @@ export const socials = [
   },
   {
     name: "Portfolio",
-    url: "https://meuportfolio.dev",
+    url: "https://portfolio-iota-ruddy-88.vercel.app/",
     icon: Globe,
     description: "Meus trabalhos e experiências",
     hoverColor: "hover:bg-amber-500/20",
